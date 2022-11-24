@@ -1,0 +1,10 @@
+class
+    bruh
+create
+    make
+feature
+    make
+        do
+            print ("Hello, world!%N")
+        end
+end
