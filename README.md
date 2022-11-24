@@ -35,3 +35,16 @@ It's all really confusing and not only that, the GUI is AWFUL. I mean REALLY bad
 ## 4:
 
 ## 5:
+
+
+# Top languages that I use:
+
+## 1:
+
+## 2:
+
+## 3:
+
+## 4:
+
+## 5:
