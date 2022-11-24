@@ -1,0 +1,5 @@
+    IDENTIFICATION DIVISON.
+    PROGRAM-ID. bruh.
+    PROCEDURE DIVISON.
+        DISPLAY "bruh"
+        .
