@@ -13,3 +13,24 @@ D. Documentation in English was pretty much 0, if there was anything the English
 ## 4:
 
 ## 5:
+<br>
+<br>
+<br>
+<br>
+
+# Most Confusing Languages:
+
+## 1: [VVVV](https://github.com/livxy/Bruhs-in-50-languages/blob/master/VVVV/vvvv_DqBG6Brvq1.png) (.v4p)<br>
+ok so imagine a language that is entirely made visually using nodes. yes nodes. once again language barrier is an issue,<br>
+and most of the documentation is broken english because of Polish/Russian even though the creator is Irish?<br>
+It's all really confusing and not only that, the GUI is AWFUL. I mean REALLY bad.
+![vvvv_wgXwiLeTrU](https://user-images.githubusercontent.com/67598470/203694688-03522ef3-1e3d-4b9d-8e9f-fffc528bcfb5.gif)![image](https://user-images.githubusercontent.com/67598470/203694826-08d1ed23-c55f-4b58-9fe1-90c1defd5077.png)
+
+
+## 2:
+
+## 3:
+
+## 4:
+
+## 5:
