@@ -1,5 +1,20 @@
-program Hello;
+program bruh;
+
+type
+   TBruh = class
+      procedure Put;
+   end;
+
+procedure TBruh.Put;
 begin
-  writeln ('Hello, world.');
-  readln;
+   Writeln('bruh');
+end;
+
+var
+   Bruh: TBruh;
+
+begin
+   Bruh := TBruh.Create;
+   Bruh.Put;
+   Bruh.Free;
 end.
