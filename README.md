@@ -5,6 +5,7 @@ A. The language is basically JavaScript in Old Mandrain.<br>
 B. I don't speak Mandrain/Chinese.<br>
 C. The language was extremely hard to translate as Chinese to English is still an issue to translate to this day.<br>
 D. Documentation in English was pretty much 0, if there was anything the English was very broken.
+![image](https://user-images.githubusercontent.com/67598470/203695331-69f1ba4b-3233-49cc-9667-356c38e2e9d5.png)
 
 ## 2:
 
